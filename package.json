@@ -1,0 +1,19 @@
+{
+  "name": "crudjs",
+  "version": "1.0.0",
+  "description": "Baisc Crud With MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "aditya@parihar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.12.1",
+    "mongoose": "^6.7.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
